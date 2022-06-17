@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/86885133/174147243-949ca7a8-ad46-41a1-87cf-bbcf61861cf0.gif" height=200/>
+  <img src="https://user-images.githubusercontent.com/86885133/174147243-949ca7a8-ad46-41a1-87cf-bbcf61861cf0.gif" height=150/>
 </p>
 
 <h1>The technologies I use:</h1>
