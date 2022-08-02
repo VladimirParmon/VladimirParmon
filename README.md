@@ -11,6 +11,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original-wordmark.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
@@ -33,6 +35,7 @@
   <img src="https://github.com/rolling-scopes-school/vladimirparmon-JSFE2021Q3/blob/gh-pages/CV/images/lang.JPG" title="RSLang" alt="RSLang" width="330" height="160"/>&nbsp;
   <img src="https://github.com/rolling-scopes-school/vladimirparmon-JSFE2021Q3/blob/gh-pages/CV/images/Christmas.JPG" title="Christmas" alt="Christmas" width="330" height="160"/>&nbsp;
   <img src="https://github.com/rolling-scopes-school/vladimirparmon-JSFE2021Q3/blob/gh-pages/CV/images/app.JPG" title="Quiz" alt="Quiz" width="330" height="160"/>&nbsp;
+    <img src="https://user-images.githubusercontent.com/86885133/182460731-05a07a70-2f48-46a9-a575-7c5f3aa20a1c.JPG" title="Hotel" alt="Hotel" width="330" height="160"/>&nbsp;
 </p>
 
 <h3>Location:</h3>
